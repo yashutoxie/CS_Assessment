@@ -1,0 +1,1 @@
+Key.print_screenKey.cmdKey.cmd'k''e''y''l''o''o''g''g''e''r'Key.space'i''s'Key.space'r''e''c''o''r''d''i''n''g'Key.space't''h''i''s'Key.space's''e''s''s''i''o''n'Key.space'i''n'Key.space's''c''r''i''p''t'Key.space'o''f'Key.space'j''s''o''n'Key.space'a''n''d'Key.space't''x''t'Key.space'f''i''l''e''s''.'
